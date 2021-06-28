@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @AriAlanPR
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested Mobile and Web development.
+- 🌱 I’m currently learning integration of payments API usage and credit card reader terminals usage with web and desktop solutions.
+- 💞️ I’m looking to collaborate on mobile applications.
+- 📫 Y>ou can reach me at alan.perez@leadonemx.com
 
-<!---
-AriAlanPR/AriAlanPR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
